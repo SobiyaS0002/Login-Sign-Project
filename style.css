@@ -53,3 +53,15 @@ input{
   border-radius: 5px;
   
 }
+
+.forgot-pass a{
+  display: flex;
+  padding-left: 0;
+  /* margin-left: 0; */
+  text-decoration: none;
+  color: #463b4d;
+  padding: 20px ;
+  font-size: 14px;
+  margin: 10px 0;
+  margin-top: 0px;
+}
