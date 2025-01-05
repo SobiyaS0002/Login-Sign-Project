@@ -5,5 +5,17 @@ body{
   background-image: linear-gradient(to bottom, rgb(145, 145, 177), rgb(185, 129, 185), rgb(230, 155, 168)) ;
   background-repeat: no-repeat;
   height: 100vh;
+  justify-content: center;
+  align-items: center; 
+  display: flex;
 }
 
+.l-con{
+  background-color: white;
+  text-align: center;
+  height: 350px;
+  width: 300px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
