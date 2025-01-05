@@ -13,7 +13,7 @@ body{
 .l-con{
   background-color: white;
   text-align: center;
-  height: 350px;
+  height: 400px;
   width: 350px;
   padding: 20px;
   border-radius: 8px;
@@ -54,7 +54,7 @@ input{
   
 }
 
-.forgot-pass a{
+.forgot-pass {
   display: flex;
   padding-left: 0;
   /* margin-left: 0; */
@@ -65,3 +65,18 @@ input{
   margin: 10px 0;
   margin-top: 0px;
 }
+
+.btn{
+  width: 300px;
+  padding: 13px;
+  margin-left: 25px;
+  border-radius: 150px;
+  border: 1px solid black;
+  font-weight: 800;
+  background: #ddd;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
